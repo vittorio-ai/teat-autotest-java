@@ -1,4 +1,4 @@
-# teat-autotest-java
+# test-autotest-java
 
 
 public RegistrationPage setEmail(String email){
